@@ -1,4 +1,4 @@
-function nipkraps() {
+function nipkrapS() {
   var HttpClient = function() {
     this.get = function(aUrl, aCallback) {
         var anHttpRequest = new XMLHttpRequest();
