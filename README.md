@@ -5,8 +5,8 @@ Implemintation:
 
 Head:
 
-<script type="text/javascript" src="sparkpin.js"></script>
+*<script type="text/javascript" src="sparkpin.js"></script>*
 
 Button:
 
-<button onclick="nipkrapS()">Call the function</button>
+*<button onclick="nipkrapS()">Call the function</button>*
