@@ -9,4 +9,4 @@ Head:
 
 Button:
 
-*"<button onclick="nipkrapS()">Call the function</button>"*
+*"onclick="nipkrapS();"*
